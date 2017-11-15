@@ -1,0 +1,5 @@
+C:\Users\mx\Documents\Visual Studio 2017\Projects\MobaServer\DLL\GameData.dll
+C:\Users\mx\Documents\Visual Studio 2017\Projects\MobaServer\DLL\GameData.pdb
+C:\Users\mx\Documents\Visual Studio 2017\Projects\MobaServer\GameData\obj\Debug\GameData.csproj.CoreCompileInputs.cache
+C:\Users\mx\Documents\Visual Studio 2017\Projects\MobaServer\GameData\obj\Debug\GameData.dll
+C:\Users\mx\Documents\Visual Studio 2017\Projects\MobaServer\GameData\obj\Debug\GameData.pdb
